@@ -8,7 +8,7 @@ bool win = false;
 
 while (!win)
 {
-    Console.Write("Guess the number: ");
+    Console.Write("Guess the number between 1 and 10: ");
     string inputString = Console.ReadLine();
     int num1 = 0;
 
